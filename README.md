@@ -8,12 +8,12 @@ A dockerized RTMP server with NGINX
 
 ## Commands
 
-  # init
-  - docker-compose up
-  # erase
-  - docker-compose down
-  # erase all
-  - docker-compose down --volumes
+    # init
+    docker-compose up
+    # erase
+    docker-compose down
+    # erase all
+    docker-compose down --volumes
 
 ## Credits
 
